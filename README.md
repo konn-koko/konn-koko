@@ -12,5 +12,5 @@
     <img alt="" src=https://lanyard.cnrad.dev/api/338657397419802624?theme=dark&bg=2e3440&idleMessage=Konn>
 </p>
 <p href="https://twitter.com/konn_koko" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=konn-konn&theme=nord&count_private=true&show_icons=true>
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=konn-koko&theme=nord&count_private=true&show_icons=true>
 </p>

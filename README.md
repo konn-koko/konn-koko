@@ -2,7 +2,7 @@
 <div align="center">Twitter: 
  <a href="https://twitter.com/konn_koko" align="center">@konn_koko</a></div>
  <div align="center">Discord: 
- <a href="https://discord.com/users/1030735550409343026" align="center">konn#9387</a></div>
+ <a href="https://discord.com/users/1030735550409343026" align="center">konn_koko</a></div>
  <div align="center">Keybase: 
  <a href="https://keybase.io/konn_ko_" align="center">konn_ko_</a></div>
 <div align="center">Email: <a href="mailto:hello@konn.dev">hello@konn.dev</a></div><br>
